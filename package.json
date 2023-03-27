@@ -1,0 +1,14 @@
+
+{
+	"name": "com.thanhdd.patternunity",
+	"displayName": "Thanhdd plugin",
+	"version": "1.0.0",
+	"author": "DaoDinhThanh",
+	"description": "",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DaoDinhThanh/com.thanhdd.patternunity.git"
+	}
+}
